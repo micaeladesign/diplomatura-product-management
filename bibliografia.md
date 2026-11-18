@@ -49,4 +49,10 @@ Toda la bibliografía de la diplomatura en un solo lugar. **Origen** indica de d
 | Lenny Rachitsky | *Lenny’s Newsletter* | M1·U1 | PMF, crecimiento | [lennysnewsletter.com](https://www.lennysnewsletter.com/) | Newsletter de producto y growth. De ahí vienen las señales de PMF de la U1. |
 | Alexander Osterwalder | *Business Model Canvas* | M1·U2 | Modelo de negocio | [strategyzer.com](https://www.strategyzer.com/) | La U2 lo nombra junto a Steve Blank; el canvas es de Osterwalder. Se ve en detalle en M1·U4. |
 
+## Libros complementarios
+
+| Autor | Título | Origen | Tema | Link | Resumen |
+|---|---|---|---|---|---|
+| Frank Voehl, H. James Harrington, Chuck Mignosa y Rich Charron (2014) | *The Lean Six Sigma Black Belt Handbook* | Complementario | Lean, Six Sigma, mejora de procesos | [Resumen en este sitio](/lean-six-sigma/README.md) · [Open Library](https://openlibrary.org/search?q=Lean+Six+Sigma+Black+Belt+Handbook) | Manual del cinturón negro: los 9 desperdicios, Kaizen, DMAIC y DMADV, y herramientas como SIPOC, Pareto, takt time y causa raíz. Ayuda a entender de dónde vienen Lean Startup y Lean UX. |
+
 > Cuando una unidad nueva traiga bibliografía, agregala a la tabla y actualizá la columna **Origen**.

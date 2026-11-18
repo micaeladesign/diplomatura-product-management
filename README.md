@@ -12,6 +12,7 @@ Resúmenes, mapas conceptuales, glosario, bibliografía y fichas de repaso de la
 | [Módulo 1](/modulo-1/README.md) | Introducción y Conceptos Fundacionales del Product Management |
 | [Módulo 2](/modulo-2/README.md) | User Experience y Tecnologías en la era del Software |
 | [Módulo 3](/modulo-3/README.md) | Product Strategy |
+| [Lean Six Sigma](/lean-six-sigma/README.md) | Libro complementario: resumen por sección, herramientas (SIPOC, Ishikawa, Pareto, 5 Porqués), puente con Product, glosario, fichas y audio de intro |
 | [Glosario](/glosario.md) | Términos de producto, de la A a la Z |
 | [Bibliografía](/bibliografia.md) | Panel con autor, título, módulo, tema, link y resumen |
 | [Cómo usar este repo](/como-usar.md) | Cómo estudiar con las fichas y cómo sumar una unidad nueva |
@@ -26,6 +27,7 @@ Resúmenes, mapas conceptuales, glosario, bibliografía y fichas de repaso de la
 | M1 · U4 — Estrategia de Construcción del Producto | ⏳ Esperando material |
 | Módulo 2 (U1 a U4) | ⏳ Esperando material |
 | Módulo 3 (U1 a U4) | ⏳ Esperando material |
+| Libro · *The Lean Six Sigma Black Belt Handbook* | ✅ Resumen, diagramas, puente con Product, glosario, fichas y audio |
 
 ## Cada unidad tiene
 
