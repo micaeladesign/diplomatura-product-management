@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Diplomatura en Product Management · Apuntes</title>
+  <meta name="description" content="Resúmenes, diagramas, glosario, bibliografía y fichas de repaso de la Diplomatura en Product Management (UTN-BA).">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/themes/vue.css">
+  <style>
+    :root { --theme-color: #5b4bdb; --content-max-width: 900px; }
+    .markdown-section table { display: table; width: 100%; font-size: .9em; }
+    .markdown-section td, .markdown-section th { vertical-align: top; }
+    .markdown-section details { border: 1px solid #e3e3ec; border-radius: 8px; padding: .6em 1em; margin: .6em 0; background: #fafaff; }
+    .markdown-section details[open] { background: #fff; }
+    .markdown-section summary { cursor: pointer; font-weight: 600; }
+    .markdown-section .mermaid { text-align: center; margin: 1.5em 0; }
+    .markdown-section blockquote { border-left-color: var(--theme-color); }
+  </style>
+</head>
+<body>
+  <div id="app">Cargando…</div>
+  <script>
+    window.$docsify = {
+      name: 'Diplomatura PM',
+      repo: 'micaeladesign/diplomatura-product-management',
+      loadSidebar: true,
+      alias: { '/.*/_sidebar.md': '/_sidebar.md' },
+      subMaxLevel: 2,
+      auto2top: true,
+      search: { placeholder: 'Buscar…', noData: 'Sin resultados', depth: 3 },
+      markdown: {
+        renderer: {
+          code: function (code, lang) {
+            if (lang === 'mermaid') { return '<div class="mermaid">' + code + '</div>'; }
+            return this.origin.code.apply(this, arguments);
+          }
+        }
+      },
+      plugins: [
+        function (hook) {
+          hook.doneEach(function () {
+            if (window.mermaid) { mermaid.run({ querySelector: '.mermaid' }); }
+          });
+        }
+      ]
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+  <script>mermaid.initialize({ startOnLoad: false, theme: 'neutral' });</script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/search.min.js"></script>
+</body>
+</html>
