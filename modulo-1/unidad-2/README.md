@@ -2,7 +2,7 @@
 
 > **Módulo 1:** Introducción y Conceptos Fundacionales del Product Management
 > Cómo definir y comunicar un producto, conocer su contexto y sus usuarios, y validar hipótesis antes de invertir.
-> 👉 [Fichas de repaso de esta unidad](/modulo-1/unidad-2/fichas.md)
+> 👉 [Fichas de repaso](/modulo-1/unidad-2/fichas.md) · [Apuntes de la clase del 18/11](/modulo-1/unidad-2/clase-18-11.md) (con videos comentados)
 
 ## Objetivos de la unidad
 
