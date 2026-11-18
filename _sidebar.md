@@ -9,6 +9,7 @@
   - [U1 · Apuntes de clase 11/11](/modulo-1/unidad-1/clase-11-11.md)
   - [U2 · Identidad y Diferenciación](/modulo-1/unidad-2/README.md)
   - [U2 · Fichas de repaso](/modulo-1/unidad-2/fichas.md)
+  - [U2 · Apuntes de clase 18/11](/modulo-1/unidad-2/clase-18-11.md)
   - [U3 · Ideación y Lanzamiento ⏳](/modulo-1/unidad-3/README.md)
   - [U4 · Estrategia de Construcción ⏳](/modulo-1/unidad-4/README.md)
 

@@ -48,6 +48,10 @@ Toda la bibliografía de la diplomatura en un solo lugar. **Origen** indica de d
 | Marc Andreessen (2007) | *The only thing that matters* | M1·U1 | Product Market Fit | [pmarchive.com](https://pmarchive.com/guide_to_startups_part4.html) | El ensayo de donde sale la definición de PMF citada en la unidad. |
 | Lenny Rachitsky | *Lenny’s Newsletter* | M1·U1 | PMF, crecimiento | [lennysnewsletter.com](https://www.lennysnewsletter.com/) | Newsletter de producto y growth. De ahí vienen las señales de PMF de la U1. |
 | Alexander Osterwalder | *Business Model Canvas* | M1·U2 | Modelo de negocio | [strategyzer.com](https://www.strategyzer.com/) | La U2 lo nombra junto a Steve Blank; el canvas es de Osterwalder. Se ve en detalle en M1·U4. |
+| Simon Sinek (2009) | *Start with Why* / charla TED *How Great Leaders Inspire Action* | Clase 18/11 | Propósito, visión, Círculo Dorado | [Video de clase](https://www.youtube.com/watch?v=7HvYUlH4mkA) | La gente no compra lo que hacés sino por qué lo hacés. Base para pensar la visión de producto. |
+| Alberto Savoia (2019) | *The Right It* | Clase 18/11 | Pretotyping, validación | [Open Library](https://openlibrary.org/search?q=The+Right+It+Savoia) | Validar si una idea merece construirse con pretotipos baratos: Fake Door, Fake Product, Pinocchio y más. |
+| Clayton Christensen y otros (2016) | *Competing Against Luck* | Clase 18/11 | Jobs to be Done | [Video de clase](https://www.youtube.com/watch?v=Stc0beAxavY) · [Open Library](https://openlibrary.org/search?q=Competing+Against+Luck) | Los clientes "contratan" productos para hacer un trabajo. El libro de referencia del marco JTBD. |
+| Founders Live | Pitches de emprendedores | Clase 18/11 | Pitch, propuesta de valor | [founderslive.com](https://www.founderslive.com/) | Recomendado en clase para ver ejemplos de buenos pitch. |
 
 ## Libros complementarios
 
