@@ -1,6 +1,6 @@
 # Glosario de Product Management
 
-Términos de la diplomatura en orden alfabético. Entre corchetes, la unidad donde aparece. Usá el buscador del sitio (arriba a la izquierda) para saltar a uno.
+Términos de la diplomatura en orden alfabético. Entre corchetes, la unidad donde aparece. Usá el buscador del sitio (arriba a la izquierda) para saltar a uno. Los términos de Lean Six Sigma (DMAIC, SIPOC, muda, Kaizen, takt time…) tienen su propio [glosario LSS](/lean-six-sigma/glosario.md).
 
 | Término | Definición | Unidad |
 |---|---|---|

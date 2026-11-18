@@ -26,6 +26,16 @@
   - [U3 · Cultura y Liderazgo ⏳](/modulo-3/unidad-3/README.md)
   - [U4 · OKRs ⏳](/modulo-3/unidad-4/README.md)
 
+- **Libros complementarios**
+  - [Lean Six Sigma · Inicio y audio](/lean-six-sigma/README.md)
+  - [LSS · Sección 1 · Panorama y procesos](/lean-six-sigma/seccion-1.md)
+  - [LSS · Sección 2 · El camino Lean](/lean-six-sigma/seccion-2.md)
+  - [LSS · Sección 3 · DMAIC y DMADV](/lean-six-sigma/seccion-3.md)
+  - [LSS · Herramientas clave](/lean-six-sigma/herramientas.md)
+  - [LSS · Puente con Product](/lean-six-sigma/puente-product.md)
+  - [LSS · Glosario](/lean-six-sigma/glosario.md)
+  - [LSS · Fichas de repaso](/lean-six-sigma/fichas.md)
+
 - **Herramientas**
   - [Glosario](/glosario.md)
   - [Bibliografía](/bibliografia.md)
