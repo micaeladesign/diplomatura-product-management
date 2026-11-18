@@ -1,7 +1,7 @@
 # Lean Six Sigma · *The Lean Six Sigma Black Belt Handbook*
 
 > **Libro:** *The Lean Six Sigma Black Belt Handbook: Tools and Methods for Process Acceleration*, de Frank Voehl, H. James Harrington, Chuck Mignosa y Rich Charron (CRC Press / Productivity Press, 2014).
-> **Qué es esta sección:** un resumen propio, en castellano, para estudiar el libro. Acompaña a los audios de NotebookLM; no los reemplaza ni reemplaza al libro.
+> **Qué es esta sección:** un resumen propio, en castellano, para estudiar el libro. Arranca con un audio de introducción y después se estudia con los resúmenes; no reemplaza al libro.
 > 👉 [Fichas de repaso](/lean-six-sigma/fichas.md) · [Glosario LSS](/lean-six-sigma/glosario.md) · [Puente con Product](/lean-six-sigma/puente-product.md)
 
 ## 🎧 Audio de introducción
@@ -76,12 +76,13 @@ mindmap
 | [Glosario LSS](/lean-six-sigma/glosario.md) | Apéndice A, resumido | Términos de Lean Six Sigma de la A a la Z |
 | [Fichas de repaso](/lean-six-sigma/fichas.md) | Todo el libro | Preguntas con respuesta desplegable |
 
-## Cómo estudiarlo con los audios
+## Cómo estudiarlo
 
-1. **Escuchá** el audio de NotebookLM de la sección.
-2. **Leé** la página de la sección acá: los diagramas fijan lo que escuchaste.
-3. **Hacé las fichas** de esa sección en voz alta.
-4. Al final, leé el [puente con Product](/lean-six-sigma/puente-product.md): es lo que más vas a usar en la diplomatura.
+1. **Escuchá una vez el audio de introducción** (arriba) para tener el panorama general.
+2. **Leé las secciones en orden:** [1](/lean-six-sigma/seccion-1.md), [2](/lean-six-sigma/seccion-2.md) y [3](/lean-six-sigma/seccion-3.md). Mirá primero los diagramas (con la 🔍 los ves en grande) y después el texto.
+3. **Hacé las [fichas](/lean-six-sigma/fichas.md) de cada sección** en voz alta apenas la terminás. Las que no te salen, repetilas al día siguiente.
+4. **Usá la [página de herramientas](/lean-six-sigma/herramientas.md) como consulta**, cuando aparezca una herramienta que no recordás.
+5. **Al final, leé el [puente con Product](/lean-six-sigma/puente-product.md)**: es lo que más vas a usar en la diplomatura.
 
 > 💡 Las secciones 4 y 5 del libro son un manual de consulta (herramientas en orden alfabético). No hace falta estudiarlas de corrido: con la [página de herramientas](/lean-six-sigma/herramientas.md) alcanza para saber qué es cada una y cuándo usarla.
 
