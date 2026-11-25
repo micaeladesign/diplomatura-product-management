@@ -23,7 +23,7 @@ Resúmenes, mapas conceptuales, glosario, bibliografía y fichas de repaso de la
 |---|---|
 | M1 · U1 — Introducción y Contexto | ✅ Resumen, diagramas y fichas |
 | M1 · U2 — Identidad y Diferenciación de Productos | ✅ Resumen, diagramas y fichas |
-| M1 · U3 — Ideación y Lanzamiento de Productos | ⏳ Esperando material |
+| M1 · U3 — Ideación y Lanzamiento de Productos | ✅ Resumen, diagramas y fichas |
 | M1 · U4 — Estrategia de Construcción del Producto | ⏳ Esperando material |
 | Módulo 2 (U1 a U4) | ⏳ Esperando material |
 | Módulo 3 (U1 a U4) | ⏳ Esperando material |
